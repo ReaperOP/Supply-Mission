@@ -1,2 +1,1 @@
-# Supply-Mission
-VS Code
+# SupplyMission
